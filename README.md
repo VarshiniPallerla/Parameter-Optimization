@@ -16,7 +16,8 @@ This project is to implement and evaluate **Support Vector Machine (SVM)** class
 **Target Variables:**  
 - `Target_Dropout` (Whether the student dropped out)  
 - `Target_Enrolled` (Whether the student is still enrolled)  
-- `Target_Graduate` (Whether the student graduated)  
+- `Target_Graduate` (Whether the student graduated)
+  
 **Objective:** Predict and classify the academic outcome (Dropout, Enrolled, Graduate) based on socio-demographic, economic, and academic attributes.
 
 ## Optimization Approach
